@@ -16,5 +16,3 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 # project Video 👇
 https://github.com/AlaaRaafat95/Emergancy_Calls-Project/assets/145221540/ae593853-99e3-441c-a16f-74b353940ee9
-## APK 👇
-app-release.apk
