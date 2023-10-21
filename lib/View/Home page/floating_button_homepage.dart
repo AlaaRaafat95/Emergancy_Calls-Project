@@ -8,7 +8,7 @@ class FloatingButtonForHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return FloatingButton(
       mainIcon: const Icon(
-        Icons.language_outlined,
+        Icons.settings_outlined,
       ),
       children: [
         SpeedDialChild(
